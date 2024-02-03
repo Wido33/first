@@ -1,2 +1,2 @@
 # first
-an example of using git
+an example of using GIT.
